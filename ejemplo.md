@@ -301,5 +301,24 @@ Una vez creado, Podemos ejecutarlos desde el menú "Graph" con la acción "Gener
 
 ![Figura 3-34: ER Graph: Resultado Java ](http://i.imgur.com/zqkXFsq.png)
 
+## Archivos Fuente
+
+El único problema detectado en la versión 5.1 analizada ha sido la exportación-importación del modelo y metamodelo, ya que la herramienta no ha sido capaz de importar un metamodelo exportado desde otra instancia, por ello la única vía para adjuntar el caso de ejemplo ha sido comprimir en un fichero la base de datos *demo* de la herramienta, normalmente situada en "Mis Documentos/MetaEdit+ 5.1/". Para obtener la información desarrollada en el presente capítulo bastará con descomprimir el fichero en esa carpeta:
+
+[demo.rar: Fichero comprimido con la información del Metamodelo ER](demo.rar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
