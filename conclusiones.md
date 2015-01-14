@@ -3,7 +3,6 @@
 MetaEdit+ es una muy buena herramienta para la definición de metamodelos, modelos y transformaciones M2T de forma ágil y potente.
 
 Enumeramos sus ventajas y desventajas:
-![dddd](figures/3-01.png)
 
 ### Ventajas:
 * Entorno integrado de desarrollo ágil y eficiente.
