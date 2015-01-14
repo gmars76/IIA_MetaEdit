@@ -151,6 +151,12 @@ Bastará con dibujar una línea horizontal con un circulo en el extremo derecho:
 
 ![Figura 3-23: Symbol DestinoN](http://i.imgur.com/SI2mP7L.png)
 
+## Archivos Fuente:
+
+
+
+
+
 ##### Salvando el Repositorio
 
 Para grabar el progreso de nuestro modelo es importante realizar "Commit" en el repositorio desde el MetaEdit+ launcher: 
