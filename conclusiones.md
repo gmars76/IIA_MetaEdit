@@ -21,7 +21,7 @@ En **conclusión** podemos decir que es una **magnífica herramienta** para el d
 
 ## Enlaces
 Para mas información podemos visitar:
-* Fichero comprimido con los datos del ejemplo: [](demo.rar)
+* Fichero comprimido con los datos del ejemplo: [demo.rar](demo.rar)
 * Página principal MetaEdit+:  http://www.metacase.com/
 * Principales características de MetaEdit+ 5.1:   http://www.metacase.com/webcasts/MetaEdit_51_FeatureHighlights.html
 * Tutorial de introducción: http://www.metacase.com/support/51/manuals/evaltut/et.html
